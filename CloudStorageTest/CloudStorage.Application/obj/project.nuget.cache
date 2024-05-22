@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdE5cwupJotB7OoLxvTOZtWDKQHf9GKonA2PB9PZqXLPH+jbk0kedSqw1+eWlEzOJxxNnURnBqhYIO5P25AEbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\C#\\API(rocketseat)\\CloudStorageTest\\CloudStorage.Application\\CloudStorageTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\file.typechecker\\4.1.1\\file.typechecker.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

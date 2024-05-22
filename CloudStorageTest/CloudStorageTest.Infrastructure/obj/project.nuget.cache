@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zP30UJ8mOHFH33iIHcnu6f8vyONc9s++Vk1CFwJWDn9NsS50HhnDRA3x2aS3i7wZMvyn29UAcqFNdPx+Vu7jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\C#\\API(rocketseat)\\CloudStorageTest\\CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\google.apis.drive.v3\\1.68.0.3373\\google.apis.drive.v3.1.68.0.3373.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
